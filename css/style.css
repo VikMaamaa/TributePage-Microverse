@@ -13,3 +13,16 @@ ul > li {
     font-weight: 400;
     font-size: 2.5rem;
 }
+
+@media (max-width: 460px) {
+    h2 {
+      font-size: 3.5rem;
+      line-height: 1.2;
+    }
+  }
+  @media (max-width: 460px) {
+    #img-details {
+      font-size: 1.4rem;
+    }
+  }
+  
